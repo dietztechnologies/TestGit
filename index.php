@@ -1,5 +1,5 @@
 <?php 
-include 'styles/text.css'
+include 'styles/text.css';
 ?>
 <html>
 <h1>Hello World</h1>
